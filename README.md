@@ -176,14 +176,3 @@ start_date=datetime(2026, 4, 12),  # y, m, d
 - **GCP IAM & APIs** — Enabling services and service account usage
 - **Infrastructure via CLI** — Full setup using `gcloud` and `bq` CLI tools
 
----
-
-## 👤 Author
-
-Built as part of a hands-on GCP data engineering session.
-
----
-
-## 📄 License
-
-MIT
