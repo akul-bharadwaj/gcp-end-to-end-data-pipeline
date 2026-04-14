@@ -2,6 +2,8 @@
 
 A hands-on implementation of a cloud-native data pipeline using **Google Cloud Platform**, covering batch ETL orchestration, data warehousing, and streaming infrastructure.
 
+This was part of the live-session by Rajan Chettri for the EPGP Applied AI and Agentic AI on 12th April 2026.
+
 <img width="1919" height="1017" alt="Screenshot 2026-04-12 125652" src="https://github.com/user-attachments/assets/1110bd14-c18d-43fe-9d77-7b14748c6d17" />
 
 
